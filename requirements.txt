@@ -1,0 +1,7 @@
+flask==2.3.3
+PyPDF2==3.0.1
+openai
+werkzeug==2.3.7
+pinecone
+python-dotenv
+google-generativeai
